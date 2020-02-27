@@ -105,7 +105,7 @@ public class Main implements ActionListener, KeyListener, MouseListener, MouseMo
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		
+		p.repaint();
 	}
 
 }
